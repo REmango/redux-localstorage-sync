@@ -1,0 +1,12 @@
+*.gz
+*.zip
+*.db
+
+npm-debug.log
+node_modules
+lib
+.DS_Store
+.idea/
+package-lock.json
+
+.vscode
